@@ -13,16 +13,79 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】战报 1967.6.20",
-        "authors": [],
-        "page_start": 1,
-        "page_end": 1,
+        "authors": [
+          "外滩人防四块政宣组"
+        ],
         "dates": [
           {
-            "year": 1916,
-            "month": 20
+            "day": 20,
+            "month": 6,
+            "year": 1967
           }
-        ]
+        ],
+        "is_range_date": false,
+        "ocr": {
+          "content_thresholds": [
+            0.0732,
+            0.3714,
+            0.3511,
+            0.0534
+          ]
+        },
+        "ocr_exceptions": {},
+        "page_end": 1,
+        "page_start": 1,
+        "title": "欢迎您——中波公司、水产局战友！"
+      },
+      {
+        "authors": [
+          "外滩人防四块政宣组"
+        ],
+        "dates": [
+          {
+            "day": 20,
+            "month": 6,
+            "year": 1967
+          }
+        ],
+        "is_range_date": false,
+        "ocr": {
+          "content_thresholds": [
+            0.2122,
+            0.3569,
+            0.0883,
+            0.6508
+          ]
+        },
+        "ocr_exceptions": {},
+        "page_end": 1,
+        "page_start": 1,
+        "title": "中波公司"
+      },
+      {
+        "authors": [
+          "外滩人防四块政宣组"
+        ],
+        "dates": [
+          {
+            "day": 20,
+            "month": 6,
+            "year": 1967
+          }
+        ],
+        "is_range_date": false,
+        "ocr": {
+          "content_thresholds": [
+            0.6488,
+            0.0763,
+            0.0646,
+            0.3015
+          ]
+        },
+        "ocr_exceptions": {},
+        "page_end": 1,
+        "page_start": 1,
+        "title": "各尽所能"
       }
     ],
     "ocr": {
